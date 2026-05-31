@@ -7,10 +7,15 @@ A ideia do sistema é permitir o controle de contas a pagar e contas a receber e
 ## Funcionalidades
 
 • Login e cadastro
+<br>
 • Controle de contas a pagar
+<br>
 • Controle de contas a receber
+<br>
 • Cálculo automático do saldo
+<br>
 • Pesquisa de registros
+<br>
 • Persistência dos dados
 
 ## Tecnologias
