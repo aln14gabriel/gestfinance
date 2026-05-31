@@ -1,45 +1,38 @@
-GestFinance
+# 💰 GestFinance
 
-Projeto simples de gestão financeira desenvolvido em React.
+**GestFinance** é uma aplicação web simples e intuitiva para controle financeiro pessoal.  
+Desenvolvida com **React** e **Vite**, permite gerenciar contas a pagar e a receber de forma prática, com cálculos automáticos de saldo e persistência local dos dados.
 
-A ideia do sistema é permitir o controle de contas a pagar e contas a receber em uma interface prática e intuitiva. Os dados ficam armazenados no navegador utilizando LocalStorage.
+---
 
-Funcionalidades
-Login e cadastro
-Controle de contas a pagar
-Controle de contas a receber
-Cálculo automático do saldo
-Pesquisa de registros
-Persistência dos dados
-Tecnologias
-React
-Vite
-Tailwind CSS
-Lucide React
-Executando o projeto
+## 🎯 Funcionalidades
 
-Instale as dependências:
+- ✅ Cadastro e login de usuários
+- ✅ Adicionar, editar e excluir **contas a receber**
+- ✅ Adicionar, editar e excluir **contas a pagar**
+- ✅ Cálculo automático do **saldo total**
+- ✅ Campo de **busca** por descrição
+- ✅ Dados salvos automaticamente no **LocalStorage**
+- ✅ Interface **responsiva** (funciona no celular e desktop)
 
-npm install
+---
 
-Inicie o servidor de desenvolvimento:
+## 🛠️ Tecnologias utilizadas
 
-npm run dev
+| Tecnologia       | Finalidade                          |
+|-----------------|-------------------------------------|
+| **React**        | Biblioteca para construção da UI    |
+| **Vite**         | Build tool e servidor de desenvolvimento |
+| **Tailwind CSS** | Estilização rápida e responsiva     |
+| **Lucide React** | Ícones modernos e leves             |
+| **LocalStorage** | Persistência de dados no navegador  |
 
-Para gerar a versão de produção:
+---
 
-npm run build
-Deploy
+## 🚀 Como executar o projeto
 
-O projeto pode ser publicado facilmente na Vercel.
+### 1. Clone o repositório
 
-Após enviar o código para o GitHub:
-
-Crie uma conta na Vercel.
-Importe o repositório.
-A Vercel detectará automaticamente o Vite.
-Clique em Deploy.
-
-Pronto, o sistema ficará disponível online.
-
-Autor
+```bash
+git clone https://github.com/seu-usuario/gestfinance.git
+cd gestfinance
