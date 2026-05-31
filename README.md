@@ -1,4 +1,5 @@
 GestFinance
+<br>
 Projeto simples de gestão financeira desenvolvido em React.
 
 A ideia do sistema é permitir o controle de contas a pagar e contas a receber em uma interface prática e intuitiva. Os dados ficam armazenados no navegador utilizando LocalStorage.
