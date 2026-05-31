@@ -21,27 +21,25 @@ A ideia do sistema é permitir o controle de contas a pagar e contas a receber e
 ## Tecnologias
 
 • React
+<br>
 • Vite
+<br>
 • Tailwind CSS
+<br>
 • Lucide React
 
 ## Executando o projeto
 
 Instale as dependências:
-
-npm install
-
-text
-
-Inicie o servidor de desenvolvimento:
-npm run dev
-
-text
-
+•npm install
+<br>
+•Inicie o servidor de desenvolvimento:
+<br>
+•npm run dev
+<br>
 Para gerar a versão de produção:
+<br>
 npm run build
-
-text
 
 ## Deploy
 
@@ -50,10 +48,21 @@ O projeto pode ser publicado facilmente na Vercel.
 Após enviar o código para o GitHub:
 
 • Crie uma conta na Vercel.
+<br>
 • Importe o repositório.
+<br>
 • A Vercel detectará automaticamente o Vite.
+<br>
 • Clique em Deploy.
 
 Pronto, o sistema ficará disponível online.
 
 ## Autor
+Allan Gabriel
+<br>
+Ruan Vinicius
+<br>
+Maykoo cunha
+<br>
+Davi monteiro
+
